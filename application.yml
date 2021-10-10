@@ -8,4 +8,4 @@ eureka:
     hostname: localhost
     
 welcome:
-    message: welcome config server
+  message: welcome config server
