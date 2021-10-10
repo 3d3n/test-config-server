@@ -7,5 +7,5 @@ eureka:
   instance:
     hostname: localhost
     
-welcome:
-  message: welcome config server
+server:
+  port: 9296
