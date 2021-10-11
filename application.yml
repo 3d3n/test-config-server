@@ -11,4 +11,4 @@ eureka:
 #   port: 9296
 
 welcome:
-  message: config server property located
+  message: config server property located v1
