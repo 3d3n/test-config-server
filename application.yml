@@ -12,3 +12,7 @@ eureka:
 
 welcome:
   message: config server property located v1
+
+PAYMENT:
+  CARD: http://CARD-SERVICE
+  BANK: http://BANK-SERVICE
